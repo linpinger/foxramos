@@ -20,7 +20,7 @@
 
 **Exe打包下载:**
 
- - [FoxRamOS.7z](FoxRamOS.7z)　解压密码:55555
+ - [FoxRamOS.7z](releases/download/2012-09-18/FoxRamOS.7z)　解压密码:55555
  - <http://pan.baidu.com/s/1bnqxdjL>
 
 **源码:**
